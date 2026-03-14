@@ -1,15 +1,20 @@
-# AURA - Autonomous AI Agent Blueprint
+# AURA — Build a 24/7 Autonomous AI Agent for $0/Month
 
-> Build a 24/7 autonomous AI agent that runs on your PC for $0/month
+> I built a fully autonomous AI agent that runs on my PC around the clock, manages my content workflow, applies to jobs, handles affiliate marketing, and reports everything to my phone via Telegram. Here's the complete blueprint.
 
-## What is AURA?
+[![Follow the Story](https://img.shields.io/badge/Instagram-@marcohergi-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/marcohergi/)
+[![Personal Site](https://img.shields.io/badge/Site-marccherggi.github.io-000?logo=github&logoColor=white)](https://marccherggi.github.io/)
+[![Free NYC Guides](https://img.shields.io/badge/Free_Guides-Gumroad-FF90E8?logo=gumroad&logoColor=white)](https://marconyc.gumroad.com)
 
-AURA is a fully autonomous AI agent system that:
+---
 
-- **Runs 24/7** on a regular Windows/Mac/Linux PC
+## What AURA Does
+
+- **Runs 24/7** on a regular Windows PC — no cloud server needed
 - Uses **76 free AI models** across 11 providers with auto-failover
-- **Posts content** to 15+ social platforms automatically
-- Runs **self-improvement loops** every hour
+- **Automates content** research, scripting, and scheduling
+- Executes **affiliate marketing** workflows end-to-end
+- Handles **job applications** (form-filling, resume tailoring)
 - Reports everything to your phone via **Telegram**
 - **$0/month** infrastructure cost
 
@@ -18,50 +23,59 @@ AURA is a fully autonomous AI agent system that:
 | Component | Purpose | Cost |
 |-----------|---------|------|
 | OpenClaw Gateway | Agent orchestration & scheduling | Free |
-| Elite Router | Routes to optimal free AI model per task | $0 |
+| 76-Model Router | Routes to optimal free AI model per task | $0 |
 | Chrome Relay | Browser automation for platforms without APIs | Free |
 | Telegram Bot | Mobile command center | Free |
 | GitHub Pages | Landing pages & SEO | Free |
 
-## The 76-Model Router
+## Who Built This
 
-Instead of paying for one AI model, the Elite Router uses 76 free models:
+I'm Marco Hergi. I moved to NYC with almost nothing, documented a full year of building a life from scratch on camera, and built AURA to handle the AI infrastructure layer of my content business.
 
-- **Groq** — Llama 4 Scout for speed-critical tasks (<500ms)
-- **Google Gemini** — 1M token context for content writing
-- **Mistral** — 1B tokens/month free for bulk operations
-- **HuggingFace** — 40+ fallback models
-- **OpenRouter** — Additional free tier models
+The whole year is being turned into a documentary series: **restaurant jobs, hitting $0, selling my own stuff, grinding back up.**
 
-Auto-failover: if any provider goes down, traffic routes to the next best option instantly.
-
-## What's in the Blueprint?
-
-The complete PDF guide covers:
-
-1. **Architecture** — Full system design with diagrams
-2. **Free API Setup** — Getting keys for all 11 providers
-3. **Elite Router Script** — Copy-paste ready model routing engine
-4. **24/7 Operation Loop** — Cron jobs and scheduling
-5. **Multi-Platform Posting** — Automated content distribution
-6. **Telegram Command Center** — Mobile monitoring and control
-7. **Revenue Streams** — Monetization strategies
-8. **Getting Started Checklist** — Step-by-step setup
-
-## Get the Blueprint
-
-**[$47 — Instant Download on Gumroad](https://marconyc.gumroad.com/l/tngqog)**
-
-## Preview
-
-Check out the [landing page](https://marccherggi.github.io/ai-agent-blueprint/) for architecture details and a system overview.
-
-## Links
-
-- [Buy the Blueprint](https://marconyc.gumroad.com/l/tngqog)
-- [Landing Page](https://marccherggi.github.io/ai-agent-blueprint/)
-- [Telegraph: How it works](https://telegra.ph/I-Built-an-AI-Agent-That-Runs-247-for-Zero-Dollars-03-13)
+Follow the story → [@marcohergi on Instagram](https://www.instagram.com/marcohergi/)
 
 ---
 
-*Built by AURA — an autonomous AI agent that wrote parts of its own documentation.*
+## Free Resources
+
+I turned everything I learned in NYC into 5 free guides:
+
+| Guide | What's In It |
+|-------|-------------|
+| 🏠 [NYC Apartment Hunt Cheatsheet](https://marconyc.gumroad.com) | Real costs, best sites, red flags |
+| 📋 [First Week Survival Guide](https://marconyc.gumroad.com) | Day 1–2 checklist, real budget |
+| 💵 [Living on $1,500/Month](https://marconyc.gumroad.com) | Exact budget breakdown, cheap rooms |
+| 💼 [First Job in NYC](https://marconyc.gumroad.com) | Walk-in script, fastest income paths |
+| ⚡ [NYC Side Hustle Playbook](https://marconyc.gumroad.com) | Ranked by speed to first dollar |
+
+**All free → [marconyc.gumroad.com](https://marconyc.gumroad.com)**
+
+---
+
+## The AI Tool I Use for Content
+
+For Reel voiceovers and audio: **ElevenLabs**. Type a script, get broadcast-quality audio in 60 seconds. I cloned my own voice for consistent narration.
+
+**Try free → [elevenlabs.io](https://try.elevenlabs.io/u977oq1o3fc0)** *(affiliate link — I earn a commission if you upgrade)*
+
+---
+
+## Blueprint Contents
+
+- `AURA-Blueprint.pdf` — Complete setup guide (OpenClaw, routing, Telegram)
+- `aura-blueprint-2026.txt` — Plain text version
+- `index.html` — Landing page
+
+## Get Started
+
+1. Clone this repo
+2. Follow the PDF blueprint
+3. Install [OpenClaw](https://openclaw.ai)
+4. Connect your Telegram bot
+5. Run your first agent loop
+
+---
+
+*Built in NYC. Documented publicly at [@marcohergi](https://www.instagram.com/marcohergi/)*
