@@ -30,9 +30,9 @@
 
 ## Who Built This
 
-I'm Marco Hergi. I moved to NYC with almost nothing, documented a full year of building a life from scratch on camera, and built AURA to handle the AI infrastructure layer of my content business.
+I'm Marco Hergi. I moved to NYC with almost nothing and I'm building a life here from scratch — on camera. I built AURA to handle the AI infrastructure layer of my content operation while I focus on the story.
 
-The whole year is being turned into a documentary series: **restaurant jobs, hitting $0, selling my own stuff, grinding back up.**
+Documenting everything in real time: **restaurant jobs, hitting $0, selling my own stuff, grinding back up.**
 
 Follow the story → [@marcohergi on Instagram](https://www.instagram.com/marcohergi/)
 
